@@ -14,3 +14,10 @@ __pycache__/
 *.log
 .DS_Store
 Thumbs.db
+
+# Cache e arquivos temporarios do Pygbag
+web_build/build/web-cache/
+web_build/build/.cache/
+    
+# Builds locais
+/build/
